@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "752702760997",
+    "project_id": "mencobamodul3",
+    "storage_bucket": "mencobamodul3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752702760997:android:2f6f067e483e3926cd37cc",
+        "android_client_info": {
+          "package_name": "com.coba1.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6dYzjRWbhEZ_g3w7_3Sy_6mcWcJYNOUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752702760997:android:44de547efd4821b5cd37cc",
+        "android_client_info": {
+          "package_name": "com.example.mencobamodul3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6dYzjRWbhEZ_g3w7_3Sy_6mcWcJYNOUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
